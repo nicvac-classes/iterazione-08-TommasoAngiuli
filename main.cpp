@@ -5,7 +5,6 @@ int main()
     int n, i, b, p;
     double voto, somma, media;
     string nome;
-
     do {
         cout << "inserisci il numero degli studenti" << endl;
         cin >> n;
